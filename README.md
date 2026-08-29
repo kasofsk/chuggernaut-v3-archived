@@ -1,3 +1,9 @@
+# Archived Chuggernaut V3
+
+This repository contains the archived V3 implementation and is no longer under active development. Current Chuggernaut development continues at [kasofsk/chuggernaut](https://github.com/kasofsk/chuggernaut).
+
+---
+
 # Installing Chuggernaut — the 15-minute path
 
 Chuggernaut is a NATS-backed job orchestrator you self-host: a **dispatcher**
